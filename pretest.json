@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Frequency of vibrations is usually expressed in",
+      "answers": {
+        "a": "number of cycles per hour",
+        "b": "number of cycles per minute",
+        "c": "number of cycles per second",
+        "d": "none of these"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The particles of a body move ________ its axis in torsional vibrations",
+      "answers": {
+        "a": "in a circle about",
+        "b": "parallel to",
+        "c": "perpendicular to",
+        "d": "away from"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a spring-mass system, if the mass is halved and the spring stiffness is doubled, the natural frequency is",
+      "answers": {
+        "a": "halved",
+        "b": "Quadrupled",
+        "c": "unchanged",
+        "d": "doubled"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In free vibrations, the velocity vector leads the displacement vector by",
+      "answers": {
+        "a": "&pi;",
+        "b": "&pi;/2",
+        "c": "&pi;/3",
+        "d": "2&pi;/3"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In free vibrations, the acceleration vector leads the displacement vector by",
+      "answers": {
+        "a": "&pi;",
+        "b": "&pi;/2",
+        "c": "&pi;/3",
+        "d": "2&pi;/3"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
