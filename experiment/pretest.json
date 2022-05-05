@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Frequency of vibrations is usually expressed in",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "number of cycles per hour",
+        "b": "number of cycles per minute",
+        "c": "number of cycles per second",
+        "d": "none of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The particles of a body move ________ its axis in torsional vibrations",
+      "answers": {
+        "a": "in a circle about",
+        "b": "parallel to",
+        "c": "perpendicular to",
+        "d": "away from"
       },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In a spring-mass system, if the mass is halved and the spring stiffness is doubled, the natural frequency is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "halved",
+        "b": "Quadrupled",
+        "c": "unchanged",
+        "d": "doubled"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In free vibrations, the velocity vector leads the displacement vector by",
+      "answers": {
+        "a": "&pi;",
+        "b": "&pi;/2",
+        "c": "&pi;/3",
+        "d": "2&pi;/3"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In free vibrations, the acceleration vector leads the displacement vector by",
+      "answers": {
+        "a": "&pi;",
+        "b": "&pi;/2",
+        "c": "&pi;/3",
+        "d": "2&pi;/3"
+      },
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
