@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The frequency of damped vibrations is always______the natural frequency.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "equal to",
+        "b": "more than",
+        "c": "less than",
+        "d": "Double"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "At resonance, the amplitude of vibrations is",
+      "answers": {
+        "a": "very large",
+        "b": "small",
+        "c": "zero",
+        "d": "depends upon frequency"
       },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "With usual notation, for a single degree of freedom system, the equation, x..+36&pi;2 x=0 represents a natural frequency of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "3 Hz",
+        "b": "3 &pi; Hz",
+        "c": "6 Hz",
+        "d": "6 &pi; Hz"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When there is a reduction in amplitude over every cycle of vibration, then the body is said to have",
+      "answers": {
+        "a": "free vibration",
+        "b": "forced vibration",
+        "c": "damped vibration",
+        "d": "none of the above"
       },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Longitudinal vibrations are said to occur when the particles of a body move",
+      "answers": {
+        "a": "perpendicular to its axis",
+        "b": "parallel to its axis",
+        "c": "in a circle about its axis",
+        "d": "none of the above"
+      },
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
