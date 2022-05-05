@@ -1,1 +1,1 @@
-## Experiment name
+## SDOF System - Arbitrary Excitation
